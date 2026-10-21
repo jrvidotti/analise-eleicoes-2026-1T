@@ -1,0 +1,9 @@
+# dados baixados e gerados pelos scripts (ver README)
+dados/
+
+# ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+.DS_Store

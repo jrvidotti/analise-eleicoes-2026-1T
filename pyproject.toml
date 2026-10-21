@@ -1,0 +1,9 @@
+[project]
+name = "analise-eleicoes-2026"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=2.0.0",
+    "pandas>=3.0.6",
+    "pyarrow>=26.0.0",
+]
